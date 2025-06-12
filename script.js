@@ -1,5 +1,5 @@
 // API Base URL (adjust as needed)
-const API_BASE_URL = 'http://localhost:3000'; // Adjust for your NestJS backend
+const API_BASE_URL = 'https://task-tracker-backend-production-f81c.up.railway.app'; // Adjust for your NestJS backend
 
 // Application State
 let currentUser = null;
